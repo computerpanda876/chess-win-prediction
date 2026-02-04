@@ -1,0 +1,9 @@
+# Ignore large files
+data/
+processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
